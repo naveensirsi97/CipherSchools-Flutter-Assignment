@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828816694647",
+    "project_id": "ciperschools",
+    "storage_bucket": "ciperschools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828816694647:android:ca98ec118915bb1e641572",
+        "android_client_info": {
+          "package_name": "com.example.ciperschools_assignment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jb1SkRnmQYQAcOapHmJ8Dyq70-S6ChQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
